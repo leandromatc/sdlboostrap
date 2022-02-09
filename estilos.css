@@ -1,0 +1,43 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+
+  nav {
+      border-radius: 50px;
+  }
+
+  main div h3 {
+    color: #172449;
+    font-weight: 900;
+  }
+
+  main div div {
+    color: #172449;
+  }
+
+  footer {
+    background: linear-gradient(to bottom, #1f3163, #172449);
+    color: white;
+  }
+
+  /* PRODUCTOS */ 
+  
+  main h1 {
+    color: #172449;
+    font-weight: 800;
+  }
+
+  /* NOSOTROS */ 
+
+  main div p {
+    color: #172449;
+  }
+
+  /* CONTACTO */
+
+  label {
+    color: #172449;
+  }
+  main div p {
+    color: #172449;
+  }
